@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Score Keeper App</string>
+    <string name="reset">reset</string>
+    <string name="field_goal_b">field goal</string>
+    <string name="safety_team_b">safety</string>
+    <string name="extra_point_b">extra point</string>
+    <string name="touchdown_b">touchdown</string>
+    <string name="team_b">team b</string>
+    <string name="field_goal">field goal</string>
+    <string name="team_a_safety">safety</string>
+    <string name="extra_point">extra point</string>
+    <string name="touchdown">touchdown</string>
+    <string name="team_a">team a</string>
+    <string name="score_number_team_a">0</string>
+    <string name="score_number_team_b">0</string>
+</resources>
